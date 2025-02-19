@@ -1,0 +1,82 @@
+
+ nav li{ 
+	background-color:grey
+	  display: block;
+ 	 padding: 8px;
+}
+
+h1 {
+	font-family: Brush Script MT;
+	color: black;
+	
+}
+
+
+table, th, td {
+  border: 1px solid;
+} 
+
+
+h2 { 
+	color: black;
+	font-family: Brush Script MT;
+
+}
+
+
+p {
+  font-family: Lucida Handwriting;
+  font-size: 20px;
+  border:3px solid;
+}
+
+
+#background{
+	font-size: 20px;
+
+}
+
+
+body{
+	max-width: 1000px;
+	margin:auto;
+	padding: 10px;
+	border: 2px solid;
+	background-color: white;
+
+}
+
+h3 { 
+	color: black;
+	font-family: Brush Script MT;
+
+}
+
+
+img{ 
+	width: 75%;
+	display: block;
+	margin:auto;
+}
+
+
+
+
+
+video { 
+	width: 75%;
+	display: block;
+	margin:auto;
+}
+
+.flex-container {
+  display: flex;
+  background-color: white;
+}
+
+.flex-container > div {
+  background-color:White;
+  margin:0px;
+  padding: 3px;
+  font-size: 100px;
+}
