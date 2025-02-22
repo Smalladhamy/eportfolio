@@ -1,5 +1,5 @@
-
- nav li{ 
+{% load static %}
+ nav li{
 	background-color:grey
 	  display: block;
  	 padding: 8px;
@@ -8,16 +8,16 @@
 h1 {
 	font-family: Brush Script MT;
 	color: black;
-	
+
 }
 
 
 table, th, td {
   border: 1px solid;
-} 
+}
 
 
-h2 { 
+h2 {
 	color: black;
 	font-family: Brush Script MT;
 
@@ -46,14 +46,14 @@ body{
 
 }
 
-h3 { 
+h3 {
 	color: black;
 	font-family: Brush Script MT;
 
 }
 
 
-img{ 
+img{
 	width: 75%;
 	display: block;
 	margin:auto;
@@ -63,7 +63,7 @@ img{
 
 
 
-video { 
+video {
 	width: 75%;
 	display: block;
 	margin:auto;
