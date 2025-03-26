@@ -1,8 +1,12 @@
-
+{% load static %}
  nav li{
 	background-color:grey
 	  display: block;
  	 padding: 8px;
+}
+
+nav ul {
+  list-style-type: none;
 }
 
 h1 {

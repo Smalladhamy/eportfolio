@@ -5,6 +5,10 @@
  	 padding: 8px;
 }
 
+nav ul {
+  list-style-type: none;
+}
+
 h1 {
 	font-family: Brush Script MT;
 	color: black;
